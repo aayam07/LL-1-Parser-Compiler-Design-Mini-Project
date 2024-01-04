@@ -1,0 +1,13 @@
+#top-container {
+    border: 2px solid #0F1035;
+    padding-bottom: 1.5rem;
+   }
+   
+   #parse-table-container {
+    border: 2px solid #c6c1c1;
+    padding: .8rem;
+   }
+   
+   #parse-table-heading {
+       margin-top: 1.5rem;
+   }
